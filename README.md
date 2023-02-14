@@ -1,8 +1,9 @@
  <!-- Introdução--> 
 
 
-### Hello, I am Murilo, welcome to my profile! 🇧🇷
-- I am a systems development technician graduated from Etec Philadelpho 💻
+### Olá eu sou o Murilo, seja muito bem-vindo ao meu perfil! 🇧🇷
+- Sou técnico em desenvolvimento de sistemas, formado pela Etec Philadelpho 💻
+- Estou estudando para me tornar um bug hunter 🪲
 
 
 
@@ -17,7 +18,7 @@
   
   <!-- Tecnologias que utilizo--> 
 
-<h1 align="center"> Technologies </h1>
+<h1 align="center"> Tecnologias que utilizo </h1>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img align="center" alt="css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
