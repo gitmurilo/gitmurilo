@@ -1,8 +1,8 @@
  <!-- Introdução--> 
 
 
-### Olá, me chamo Murilo, seja muito bem-vindo ao meu perfil! 🇧🇷
-- Sou técnico em desenvolvimento de sistemas formado pela Etec Philadelpho 💻
+### Seja muito bem-vindo ao meu perfil! 🇧🇷
+- Sou técnico em desenvolvimento de sistemas 💻
 - Estou estudando para me tornar um bug hunter 🪲
 
 
