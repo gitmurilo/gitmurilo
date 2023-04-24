@@ -3,8 +3,7 @@
 
 ### Seja muito bem-vindo ao meu perfil! 🇧🇷
 - Sou técnico em desenvolvimento de sistemas 💻
-- Estou estudando para me tornar um Bug Hunter 🪲
-- Entusiasta de tecnologias Open source e baixo nível 🔓 🧠
+- Entusiasta de tecnologias Open source e GameDev🔓 🕹️
 
 
 
