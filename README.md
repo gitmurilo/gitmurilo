@@ -3,7 +3,7 @@
 
 ### Seja muito bem-vindo ao meu perfil! 🇧🇷
 - Sou técnico em desenvolvimento de sistemas 💻
-- Entusiasta de tecnologias Open source 🔓 
+- Entusiasta de low level e hacking🔓 
 - Estudando desenvolvimento web 🌐
 
 
