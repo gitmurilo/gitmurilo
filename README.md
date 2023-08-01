@@ -20,7 +20,7 @@
   <!-- Tecnologias que utilizo--> 
  
 
-<h1 align="center"> Technologies and tools :</h1>
+<h1 align="center"> Stacks:</h1>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="html" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="css" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
