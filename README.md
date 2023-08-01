@@ -1,10 +1,9 @@
  <!-- Introdução--> 
 
 
-### Seja muito bem-vindo ao meu perfil! 🇧🇷
-- Sou técnico em desenvolvimento de sistemas 💻
-- Entusiasta de low level e hacking🔓 
-- Estudando desenvolvimento web 🌐
+### Welcome to my profile 
+- Low-level-programming and hacking enthusiast 🗝️ 
+- Learning Web Development 🌐
 
 
 
@@ -21,7 +20,7 @@
   <!-- Tecnologias que utilizo--> 
  
 
-<h1 align="center"> Tecnologias que utilizo </h1>
+<h1 align="center"> Technologies and tools :</h1>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="html" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="css" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
