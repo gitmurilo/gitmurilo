@@ -1,7 +1,7 @@
  <!-- Introdução--> 
 
 
-### Welcome to my profile 🍪
+### Welcome to my profile 🍪 🔴
 - Low-level-programming and hacking enthusiast 🗝️ 
 - Learning Web Development 🌐
 
