@@ -2,7 +2,7 @@
 
 
 ### Bem-vindo ao meu perfil 🍪 
-- Gosto de programação em baixo nível e hardware ⚙️
+- Gosto de programação de baixo nível ⚙️
 - Aprendendo desenvolvimento web 🌐
 
 
