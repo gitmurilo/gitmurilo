@@ -2,7 +2,7 @@
 
 
 ### Welcome to my profile! 🍪🇧🇷 
-- I enjoy low-level programming and hacking ⚙️
+- I enjoy low-level programming and hacking 🐜
 - Learning web development 🌐
 
 
