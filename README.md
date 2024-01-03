@@ -1,7 +1,7 @@
  <!-- Introdução--> 
 
 
-### Welcome to my profile! 🍪🇧🇷 <br>
+### Welcome to my profile! 🍪🇧🇷 
 
 
 
