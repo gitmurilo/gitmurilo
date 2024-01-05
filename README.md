@@ -3,7 +3,7 @@
 
 ### Welcome to my profile! 🍪🇧🇷 
 - I am interested in hacking and bug bounty 🪲
-- Learning computer network 🌐 :goberserk: 
+- Learning computer network 🌐 
 
   
  <!-- Logs de commits--> 
