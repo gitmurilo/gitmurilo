@@ -3,7 +3,7 @@
 
 ### Welcome to my profile! 🍪🇧🇷 
 - I am interested in hacking and bug bounty 🪲
-- Learning computer network 🌐 
+- Learning web development 🌐 
 
   
  <!-- Logs de commits--> 
