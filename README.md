@@ -1,17 +1,17 @@
- <!-- Introdução--> 
+ <!-- Introduction--> 
 
 
-### Bem-vindo ao meu perfil! 🍪🇧🇷 
-- Gosto de hacking e bug bounty 🪲
-- No momento estou estudando Desenvolvimento Web 🌐 
+### Welcome to my profile! 🍪🇧🇷 
+- Bug Bounty enthusiast 🪲
+- Currently studying Web Development 🌐 
 
   
  
   
-  <!-- Tecnologias que utilizo--> 
+  <!-- My tech stack --> 
  
 
-<h1 align="center"> Tecnologias </h1>
+<h1 align="center"> Skills </h1>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="html" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="css" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
